@@ -1,8 +1,6 @@
-### VisualStudioCode ###
-.vscode/*
-
-### WebStorm ###
-.idea/*
+### IDE/Editor ###
+.vscode/
+.idea/
 
 ### VisualStudioCode Patch ###
 
